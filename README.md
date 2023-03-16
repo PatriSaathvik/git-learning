@@ -1,2 +1,2 @@
-# git-learning
-This is to learn GIT
+# suresh-techs
+SureshTechs Websites
